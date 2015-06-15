@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFloatingActionButton.Sample", "XamarinFloatingActionButton.Sample\XamarinFloatingActionButton.Sample.csproj", "{EA18F72E-35D2-4B35-8940-EA2928BD98DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFloatingActionButton", "XamarinFloatingActionButton\XamarinFloatingActionButton.csproj", "{F69B9548-BB7C-4800-BF9D-D7CF92DAC8B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA18F72E-35D2-4B35-8940-EA2928BD98DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA18F72E-35D2-4B35-8940-EA2928BD98DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA18F72E-35D2-4B35-8940-EA2928BD98DC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EA18F72E-35D2-4B35-8940-EA2928BD98DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA18F72E-35D2-4B35-8940-EA2928BD98DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA18F72E-35D2-4B35-8940-EA2928BD98DC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F69B9548-BB7C-4800-BF9D-D7CF92DAC8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69B9548-BB7C-4800-BF9D-D7CF92DAC8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69B9548-BB7C-4800-BF9D-D7CF92DAC8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69B9548-BB7C-4800-BF9D-D7CF92DAC8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
