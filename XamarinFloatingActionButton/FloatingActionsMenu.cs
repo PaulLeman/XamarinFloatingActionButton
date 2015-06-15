@@ -167,7 +167,7 @@ namespace XamarinFloatingActionButton
                 _updateBackgroundDelegate = updateBackgroundDelegate;
                 _getIconDrawableDelegate = getIconDrawableDelegate;
 
-                base.UpdateBackground();
+                this.UpdateBackground();
             }
 
             protected override void UpdateBackground()
