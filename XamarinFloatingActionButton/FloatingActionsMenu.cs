@@ -20,7 +20,7 @@ using Java.Interop;
 
 namespace XamarinFloatingActionButton
 {
-    [Register("com.getbase.floatingactionbutton.FloatingActionsMenu")]
+    [Register("xamarinfloatingactionbutton.FloatingActionsMenu")]
     public class FloatingActionsMenu : ViewGroup
     {
         public const int EXPAND_UP = 0;

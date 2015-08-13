@@ -17,7 +17,7 @@ using Android.Graphics;
 
 namespace XamarinFloatingActionButton
 {
-    [Register("com.getbase.floatingactionbutton.AddFloatingActionButton")]
+    [Register("xamarinfloatingactionbutton.AddFloatingActionButton")]
     public class AddFloatingActionButton : FloatingActionButton
     {
         public int mPlusColor;

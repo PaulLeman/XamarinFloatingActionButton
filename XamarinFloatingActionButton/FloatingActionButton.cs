@@ -18,7 +18,7 @@ using Android.Graphics.Drawables.Shapes;
 
 namespace XamarinFloatingActionButton
 {
-    [Register("com.getbase.floatingactionbutton.FloatingActionButton")]
+    [Register("xamarinfloatingactionbutton.FloatingActionButton")]
     public class FloatingActionButton : ImageButton
     {
 
